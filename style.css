@@ -67,7 +67,7 @@ body{
 #main-header{
     background-color: rgb(255, 38, 38);
     background:rgb(34, 34, 34);
-    background-image: url(/Amankii/images/004.jpg);
+    background-image: url(..//Amankii/images/004.jpg);
     background-position: center right;
     background-repeat: 2;
     color:antiquewhite;
@@ -123,7 +123,7 @@ span.ingrediet {
 }
 
 #showcase{
-    background-image: url(/Amankii/images/pexls.001.jpg) ;
+    background-image: url(..//Amankii/images/pexls.001.jpg) ;
     background-position: center  bottom;
     min-height: 300px;
     font-family:Georgia, 'Times New Roman', Times, serif;
